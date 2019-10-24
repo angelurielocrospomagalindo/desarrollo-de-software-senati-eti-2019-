@@ -1,0 +1,15 @@
+.boton-azul{
+    background: -webkit-linear-gradient(left,#3669EB,#3295F3);
+    border:0;
+    border-radius: 5px;
+    padding: 22px;
+    width: 150px;
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    transition: 0.3s all;
+}
+.boton-azul:hover{
+    box-shadow: 0px 5px 20px black;
+    transform: scale(1.1) ;
+}
